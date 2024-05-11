@@ -1,31 +1,45 @@
-# Mon portfolio 💻
+# My Portfolio 💻
 
-Bienvenue sur mon portfolio ! Je suis un développeur web fullstack passionné par la création d'applications web innovantes et conviviales. Voici un aperçu de mes compétences, de mes projets et de mes réalisations.
+Welcome to my portfolio! I'm a passionate fullstack web developer dedicated to creating innovative and user-friendly web applications. Here's an overview of my skills, projects, and achievements.
 
-## À Propos de Moi 🙋‍♂️
+## About Me 🙋‍♂️
 
-Je m'appelle El yousfi Ibrahim et je suis un développeur web fullstack avec une expérience dans la création d'applications web robustes et performantes. Ma passion pour la technologie et ma créativité me permettent de concevoir des solutions innovantes pour répondre aux besoins de mes clients.
+My name is El yousfi Ibrahim and I'm a fullstack web developer with experience in building robust and high-performance web applications. My passion for technology and creativity allows me to design innovative solutions to meet my clients' needs.
 
-## Compétences Techniques 🚀
+## Technical Skills 🚀
 
-- Langages de Programmation : JavaScript, Typescript, PHP, Kotlin
-- Frameworks Frontend : Jetpack Compose
-- Frameworks Backend : Symfony
-- Outils de Développement : Git
-- Autres : HTML5, CSS3, Sass, Bootstrap
+- Programming Languages: JavaScript, Typescript, PHP, Kotlin
+- Frontend Frameworks: Jetpack Compose
+- Backend Frameworks: Symfony
+- Development Tools: Git
+- Others: HTML5, CSS3, Sass, Bootstrap
 
-## Projets Principaux 🛠️
+## Technical Details 💡
 
-### Création d'un site web pour une artiste
-Site web qui présente l'artiste et permet aux visiteurs de la contacter.
-Espace Admin présent pour gérer le contenu du site web de manière dynamique et intuitive (CRUD).
+### Relational Database
+For managing the data in my portfolio, I use a relational database. This allows me to efficiently store and retrieve information required across my applications.
 
-## Comment Me Contacter 📫
+### MVC Model (Model-View-Controller)
+My portfolio is developed using the MVC (Model-View-Controller) model. This helps me organize my code in a modular way and separate business logic, presentation, and request handling.
 
-Si vous êtes intéressé par mon travail ou si vous souhaitez discuter de projets potentiels, n'hésitez pas à me contacter :
+### Responsiveness and AJAX
+My portfolio is designed to be fully responsive, ensuring optimal viewing experience across a wide range of devices and screen sizes. Additionally, I utilize AJAX to enhance the user experience by providing seamless, asynchronous interactions, allowing for dynamic content updates without requiring full page reloads.
 
-- Email : ibrahimelyousfi26@gmail.com
-- LinkedIn : [El yousfi Ibrahim](www.linkedin.com/in/ibrahim-elyousfi)
-- Portfolio : [El yousfi Ibrahim](lien_vers_mon_portfolio)
+### Admin Space
+My portfolio includes an admin space that allows me to manage content dynamically. By using prepared SQL queries, I retrieve, update, and delete data from my database securely and efficiently.
 
-N'hésitez pas à explorer mon portfolio pour découvrir mes projets et en apprendre davantage sur mon parcours professionnel. Merci de votre visite !
+## Main Projects 🛠️
+
+### Development of an Artist Website
+Website showcasing the artist and allowing visitors to contact them.
+Admin space available for dynamically and intuitively managing the website's content (CRUD).
+
+## How to Contact Me 📫
+
+If you're interested in my work or would like to discuss potential projects, feel free to contact me:
+
+- Email: ibrahimelyousfi26@gmail.com
+- LinkedIn: [El yousfi Ibrahim](www.linkedin.com/in/ibrahim-elyousfi)
+- Portfolio: [El yousfi Ibrahim](https://github.com/IbrahimElyo/portfolio.git)
+
+Feel free to explore my portfolio to discover my projects and learn more about my professional journey. Thank you for visiting!
