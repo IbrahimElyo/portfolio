@@ -40,6 +40,6 @@ If you're interested in my work or would like to discuss potential projects, fee
 
 - Email: ibrahimelyousfi26@gmail.com
 - LinkedIn: [El yousfi Ibrahim](www.linkedin.com/in/ibrahim-elyousfi)
-- Portfolio: [El yousfi Ibrahim](https://github.com/IbrahimElyo/portfolio.git)
+- Portfolio: [El yousfi Ibrahim](https://ibrahim-elyousfi.com)
 
 Feel free to explore my portfolio to discover my projects and learn more about my professional journey. Thank you for visiting!
